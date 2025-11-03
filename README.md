@@ -1,2 +1,3 @@
 # DSC180A-Methodology-3
-Dhruv Kalpeshkumar Patel
+Jordan Aryel Dadios Lambino
+
