@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Dhruv Kalpeshkumar Patel
-dhp005@ucsd.edu
+Dhruv Kalpeshkumar Patel and Jordan Aryel Dadios Lambino
